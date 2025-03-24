@@ -1,0 +1,45 @@
+{
+  "ctRoot": [
+    {
+      "_id": "1234",
+      "name": "Bob",
+      "dob": "12/12/12",
+      "address": {
+        "street": "Bobs street",
+        "town": "Chester",
+        "postode": "SW12 34G"
+      },
+      "telephone": null,
+      "pets": [
+        "cat"
+      ],
+      "score": 12.0,
+      "email": "bob@email.com",
+      "url": "url.com",
+      "description": "Description of Bob",
+      "verified": null,
+      "salary": 100
+    },
+    {
+      "_id": "5678",
+      "name": "Bill",
+      "dob": "10/10/10",
+      "address": {
+        "street": "Bills street",
+        "town": "Manchester",
+        "postode": "SW10 55F"
+      },
+      "telephone": null,
+      "pets": [
+        "cat",
+        "dog"
+      ],
+      "score": 10.0,
+      "email": "bill@email.com",
+      "url": "url.com",
+      "description": "Description of Bill",
+      "verified": null,
+      "salary": 100
+    }
+  ]
+}
